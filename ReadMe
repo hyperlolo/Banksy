@@ -1,0 +1,29 @@
+This project was done over course of Spring 2020, it was hindered a bit by the emergence of COVID-19, however, it has given me
+a good understanding of how to work remotely on a project. My part in this project involved with the planning and creation of the
+database and its relational schema, along with the creation of the website. I was tasked with the creation of the websites back end
+heavily as I created all of the pages visible on the website, along with the logic that made them work properly. I also contributed
+to the design of the main pages such as the Ad-Hoc, relational tables, and the query table results page. The CRUD page was designed
+and programmed by me. The creation of this website and connection to the database took approximately 5 days. However, none of this
+would have been possible had I not gotten guidance from my friend Richard Neil. I had bare minimum experience with HTML, and CSS, and
+none with PHP. With his guidance I was able to create a functional product. Thank you so much Richard!
+
+Project Name: Banksy
+
+Project Purpose: To create a fictional banking database that would be utilized by the managers at a bank. This database was designed 
+specifically so that only managers would be the ones to access this database, thus some attributes that would otherwise be inaccessible
+to regular employees, are accessible in the database, such as Social Security Numbers which were randomly generated.
+
+What was involved with the creation of this project:
+* Creation of a domain
+* Creation of a relational schema
+* Creation of a database with randomly generated datasets;
+  - Datasets for Members, nonMembers, Bank, and Employee were created and linked together.
+* The database was hosted on a remote computer in the school and the use SSH software was required to work on the project.
+
+What was made with the website:
+* An Ad-Hoc Query search box, and a CRUD application for the database were added to the website.
+* SQL injection mitigation best practices were used in the creation of the Ad-Hoc Query. 
+* AdobeXD was used for the CSS and some hand written CSS was also used for parts of the website where the AdobeXD css was broken.
+
+Live snapshots of the website are included in the public_html folder, I will not be updating anymore code as I would like to come back
+to this in a few years and cringe a little, it would be nice.
