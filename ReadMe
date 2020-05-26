@@ -25,5 +25,7 @@ What was made with the website:
 * SQL injection mitigation best practices were used in the creation of the Ad-Hoc Query. 
 * AdobeXD was used for the CSS and some hand written CSS was also used for parts of the website where the AdobeXD css was broken.
 
-Live snapshots of the website are included in the public_html folder, I will not be updating anymore code as I would like to come back
-to this in a few years and cringe a little, it would be nice.
+Live snapshots and documentation of the website are included in the public_html folder, I will not be updating anymore code as I would 
+like to come back to this in a few years and cringe a little, it would be nice. To view the snapshots, please download only the
+websiteSnapshots folder from the repository. The documentaion is just a single pdf file in the repository titled "Documentation" that
+includes all of our project parts 1-7 throughout the semester and all of the work that was done with them. 
