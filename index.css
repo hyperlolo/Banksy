@@ -1,0 +1,473 @@
+
+.mediaViewInfo {
+  --web-view-name: Main – 1;
+  --web-view-id: Main___1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+  #primary { width:67%; }
+  #secondary { width:30%; margin-left:3%;}  
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+  #primary { width:100%; }
+  #secondary { width:100%; margin:0; border:none; }
+}
+:root {
+  --web-view-ids: Main___1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Main___1 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(255,255,255,1);
+  overflow: hidden;
+  --web-view-name: Main – 1;
+  --web-view-id: Main___1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+.Rectangle_19 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 170px;
+  left: 0px;
+  top: 0px;
+}
+#Banksy {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.529));
+  position: absolute;
+  left: 800px;
+  top: 56px;
+  overflow: visible;
+  width: 253px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Perpetua Titling MT;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 64.43000030517578px;
+  color: rgba(255,255,255,1);
+}
+#RELATIONS_TABLES {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.839));
+  position: absolute;
+  left: 73.5px;
+  top: 207px;
+  overflow: visible;
+  width: 323px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Perpetua Titling MT;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 35px;
+  color: rgba(40,61,165,1);
+}
+#Group_235 {
+  position: absolute;
+  width: 105.391px;
+  height: 28px;
+  left: 73.556px;
+  top: 87px;
+  overflow: visible;
+}
+#home_water {
+  position: absolute;
+  width: 21.834px;
+  height: 21.834px;
+  left: 37px;
+  top: 1.405px;
+  overflow: visible;
+}
+.Rectangle_18 {
+  position: absolute;
+  overflow: visible;
+  width: 21.834px;
+  height: 21.834px;
+  left: 0px;
+  top: 0px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+#Home {
+  position: absolute;
+  left: 42.391px;
+  top: 0px;
+  overflow: visible;
+  width: 64px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(255,255,255,1);
+  letter-spacing: 0.4px;
+}
+.Path_16 {
+  overflow: visible;
+  position: absolute;
+  width: 21.81px;
+  height: 21.834px;
+  left: 0px;
+  top: 3.405px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Team_Members__Karanjit_Gill__G {
+  position: absolute;
+  left: 866px;
+  top: 1010px;
+  overflow: visible;
+  width: 975px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.4px;
+}
+#ID1__canWithdraw_transactionID {
+  position: absolute;
+  left: 74px;
+  top: 265px;
+  overflow: visible;
+  width: 703px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.4px;
+}
+#Group_236 {
+  position: absolute;
+  width: 683px;
+  height: 703px;
+  left: 1157px;
+  top: 207px;
+  overflow: visible;
+}
+#Query_list {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.878));
+  position: absolute;
+  left: 0.5px;
+  top: 0px;
+  overflow: visible;
+  width: 203px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Perpetua Titling MT;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 35px;
+  color: rgba(40,61,165,1);
+}
+#ID1__Bank_Info_A_manager_may_w {
+  position: absolute;
+  left: 0px;
+  top: 72px;
+  overflow: hidden;
+  width: 684px;
+  height: 631px;
+  text-align: left;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.4px;
+}
+#Group_237 {
+  position: absolute;
+  width: 626px;
+  height: 259px;
+  left: 74px;
+  top: 786px;
+  overflow: visible;
+}
+#CRUD_Application {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.878));
+  position: absolute;
+  left: 0.5px;
+  top: 0px;
+  overflow: visible;
+  width: 347px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Perpetua Titling MT;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 35px;
+  color: rgba(40,61,165,1);
+}
+#CRUD_stands_for_Create__Read__ {
+  position: absolute;
+  left: 0px;
+  top: 72px;
+  overflow: visible;
+  width: 627px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.4px;
+}
+#For_any_questions_or_concerns_ {
+  position: absolute;
+  left: 985px;
+  top: 953px;
+  overflow: visible;
+  width: 737px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.4px;
+}
+#Group_226 {
+  position: absolute;
+  width: 764px;
+  height: 789px;
+  left: 544px;
+  top: 228px;
+  overflow: visible;
+}
+.Icon_awesome_piggy_bank {
+  overflow: visible;
+  position: absolute;
+  width: 674.515px;
+  height: 599.592px;
+  left: 52.8px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#STONKS {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.529));
+  position: absolute;
+  left: 0px;
+  top: 538px;
+  overflow: visible;
+  width: 765px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 189px;
+  color: rgba(0,0,0,0.102);
+}
+#Group_238 {
+  position: absolute;
+  width: 518.5px;
+  height: 184px;
+  left: 73.5px;
+  top: 565px;
+  overflow: visible;
+}
+#ADHOC_query {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.878));
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  width: 269px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Perpetua Titling MT;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 35px;
+  color: rgba(40,61,165,1);
+}
+#User_Query_ {
+  position: absolute;
+  left: 0.5px;
+  top: 73px;
+  overflow: visible;
+  width: 141px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  color: rgba(0,0,0,1);
+  letter-spacing: 0.4px;
+  border-left-width: 1px;
+}
+
+#Form_Field {
+  position: absolute;
+  width: 353px;
+  height: 43px;
+  left: 165.5px;
+  top: 68px;
+  overflow: visible;
+}
+.Rectangle_3 {
+  position: absolute;
+  overflow: visible;
+  width: 353px;
+  height: 43px;
+  left: 0px;
+  top: 0px;
+}
+#SELECT___FROM_BankAccount {
+  position: absolute;
+  left: 54px;
+  top: 9px;
+  overflow: visible;
+  width: 239px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  color: rgba(0,0,0,0.459);
+}
+#Button {
+  position: absolute;
+  width: 131px;
+  height: 42px;
+  left: 144.5px;
+  top: 142px;
+  overflow: visible;
+}
+#Primary_Button {
+  position: absolute;
+  width: 131px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 131px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+}
+#RESET {
+  position: absolute;
+  left: 40px;
+  top: 9px;
+  overflow: visible;
+  width: 51px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(255,255,255,1);
+}
+#Button_bd {
+  position: absolute;
+  width: 131px;
+  height: 42px;
+  left: 1.5px;
+  top: 142px;
+  overflow: visible;
+}
+#Primary_Button_be {
+  position: absolute;
+  width: 131px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_1_bf {
+  position: absolute;
+  overflow: visible;
+  width: 131px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+}
+#SUBMIT {
+  position: absolute;
+  left: 33px;
+  top: 9px;
+  overflow: visible;
+  width: 67px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(255,255,255,1);
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  /* a {
+    text-decoration: none;
+} */
+
+.styled {
+font-family: Poppins;
+font-style: normal;
+
+font-size: 18px;
+
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(40,61,165,1);
+  background-image: linear-gradient(to top left,
+                                    rgba(0, 0, 0, .2),
+                                    rgba(0, 0, 0, .2) 30%,
+                                    rgba(0, 0, 0, 0));
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+              inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.styled:hover {
+  background-color: rgba(255, 255, 255, .6);
+}
+
+.styled:active {
+  box-shadow: inset -2px -2px 3px rgba(65,79,146, .6),
+              inset 2px 2px 3px rgba(0, 0, 0, .6);
+}	
+/* color: rgba(40,61,165,1); */
+
+body {
+  overflow-x: hidden;
+width: 1920px;
+height: 1080px;
+background: #fff;
+}
